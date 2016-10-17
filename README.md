@@ -6,4 +6,7 @@ Ark is a framework that will help android developer to build application faster 
 
 This project still in an early stage, so every opinion and suggestion will be considered.
 
-Happy coding.
+There are awesome libraries that included in this framework:
+* [Butterknife](https://github.com/JakeWharton/butterknife)
+
+Happy coding everyone
